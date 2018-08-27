@@ -9,7 +9,7 @@
     max_number : 16,
 
     // 控制是否显示顶部附加信息文字。
-    showMessage : true,
+    showMessage : false,
 
     // !!请确保打开此项时，使用的是标准日期格式！!
     // 时间自动排序。
@@ -25,8 +25,8 @@
     use_custom_color : false,
 
     // 附加信息内容。
-    itemLabel : "队友ID",
-    typeLabel : "段位",
+    itemLabel : "30日内投稿最多",
+    typeLabel : "持续天数",
     // 榜首项目信息的水平位置 。
     item_x : 400,
 
