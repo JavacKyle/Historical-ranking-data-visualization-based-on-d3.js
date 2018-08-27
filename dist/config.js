@@ -25,8 +25,8 @@
     use_custom_color : false,
 
     // 附加信息内容。
-    itemLabel : "左边信息",
-    typeLabel : "右边信息",
+    itemLabel : "队友ID",
+    typeLabel : "段位",
     // 榜首项目信息的水平位置 。
     item_x : 400,
 
